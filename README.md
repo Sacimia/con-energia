@@ -1,2 +1,2 @@
 # con-energia
-Lei de conservação de energia em Python
+Lei de conservação de energia ou Lei de Hooke em Python simula uma tipíca dinâmica de uma massa presa a uma mola. A posição da massa (x) e a velocidade da massa (v) são calculadas com base na lei de Hooke, e a energia total (E) é calculada como a soma da energia potencial (0,5 * k * x ** 2) e da energia cinética (0,5 * v ** 2). O gráfico mostra como a energia total se mantém constante ao longo do tempo, confirmando a lei da conservação de energia.
